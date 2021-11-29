@@ -21,8 +21,3 @@
 
 1. To check if Semantic UI is loading correctly, navigate to `inspect` - `network`, then refresh the page to see the files loaded;
 2. To play with 2 different versions of view rendering, navigate to `inspect` - `...` - `sensors` to change geolocation.
-
-
-*Ruichen Zhang*
-
-Nov 29, 2021

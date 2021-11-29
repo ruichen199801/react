@@ -1,9 +1,9 @@
-## React.js Learning Notes
+## React.js Notes
 
-| App |
+| App Name |
 | :----: |
-| [Components](./components/README.md) |
-| [Seasons](./seasons/README.md) |
+| [Components](./components) |
+| [Seasons](./seasons) |
 
 *Ruichen Zhang*
 

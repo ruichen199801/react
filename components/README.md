@@ -8,7 +8,3 @@
 
 * Components
 * Props
-
-*Ruichen Zhang*
-
-Nov 29, 2021
